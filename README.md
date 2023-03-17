@@ -166,7 +166,7 @@ git branch -D  <имя_удаляемой_ветки>
 git add README.md
 git commit -m "first commit"
 ```
-* Переименовать ветку **`master`** в **`main`** командой:
+* Переименовать ветку **`master`** в **`main`** при необходимости командой:
 ```
 git branch -M main
 ```
